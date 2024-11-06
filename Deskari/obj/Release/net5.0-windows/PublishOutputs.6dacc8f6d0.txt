@@ -1,0 +1,5 @@
+C:\Users\Topi\Desktop\Uusi kansio\Setup.exe
+C:\Users\Topi\Desktop\Uusi kansio\Setup.dll
+C:\Users\Topi\Desktop\Uusi kansio\Setup.deps.json
+C:\Users\Topi\Desktop\Uusi kansio\Setup.runtimeconfig.json
+C:\Users\Topi\Desktop\Uusi kansio\Setup.pdb

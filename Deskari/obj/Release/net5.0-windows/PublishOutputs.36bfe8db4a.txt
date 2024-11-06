@@ -1,0 +1,5 @@
+C:\Users\Topi\Desktop\Setup.exe
+C:\Users\Topi\Desktop\Setup.dll
+C:\Users\Topi\Desktop\Setup.deps.json
+C:\Users\Topi\Desktop\Setup.runtimeconfig.json
+C:\Users\Topi\Desktop\Setup.pdb
